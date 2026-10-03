@@ -7,7 +7,7 @@ export const metadata: Metadata = pageMetadata({
   path: '/terms',
   title: 'Điều khoản dịch vụ — Duoly',
   description:
-    'Điều khoản dịch vụ của Duoly — a couple app: dịch vụ, tài khoản, nội dung của bạn, Premium và thanh toán, luật áp dụng.',
+    'Điều khoản dịch vụ của Duoly — a couple app: dịch vụ, tài khoản, nội dung của bạn, Premium và thanh toán, quảng cáo, luật áp dụng.',
 });
 
 export default function Page() {

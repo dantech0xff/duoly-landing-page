@@ -7,7 +7,7 @@ export const metadata: Metadata = pageMetadata({
   path: '/privacy',
   title: 'Chính sách quyền riêng tư — Duoly',
   description:
-    'Chính sách quyền riêng tư của Duoly: dữ liệu thu thập, cách sử dụng, và những điều app không bao giờ làm với ghi chú của bạn.',
+    'Chính sách quyền riêng tư của Duoly: dữ liệu thu thập (gồm device ID và ad ID), quảng cáo và tracking, cách sử dụng, và những điều app không bao giờ làm với ghi chú của bạn.',
 });
 
 export default function Page() {
