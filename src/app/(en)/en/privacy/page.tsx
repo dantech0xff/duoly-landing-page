@@ -7,7 +7,7 @@ export const metadata: Metadata = pageMetadata({
   path: '/privacy',
   title: 'Privacy Policy — Duoly',
   description:
-    'The Duoly privacy policy: what data is collected, how it is used, and what the app will never do with your notes.',
+    'The Duoly privacy policy: what data is collected (including device ID and ad ID), ads and tracking, how it is used, and what the app will never do with your notes.',
 });
 
 export default function Page() {
